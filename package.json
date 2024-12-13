@@ -1,0 +1,13 @@
+{
+  "name": "evil-sort",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "license": "MIT",
+  "description": ""
+}
