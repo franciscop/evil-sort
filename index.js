@@ -1,4 +1,4 @@
-export default async function evilSort(numbers) {
+export default async function sort(numbers) {
   const sorted = [];
 
   await Promise.all(
