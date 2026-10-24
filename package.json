@@ -12,7 +12,7 @@
     "meme"
   ],
   "scripts": {
-    "test": "node index.test.js",
+    "test": "bun test",
     "lint": "oxlint index.js"
   },
   "main": "index.js",
