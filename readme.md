@@ -1,4 +1,4 @@
-# Evil Sort
+# Evil Sort [![npm install evil-sort](https://img.shields.io/badge/npm%20install-evil--sort-blue.svg)](https://www.npmjs.com/package/evil-sort) [![tests](https://github.com/franciscop/evil-sort/workflows/tests/badge.svg)](https://github.com/franciscop/evil-sort/actions) [![gzip size](https://img.badgesize.io/franciscop/evil-sort/master/index.js.svg?label=gzip&logo=&compression=gzip)](https://github.com/franciscop/evil-sort/blob/master/index.js) [![deps](https://img.shields.io/badge/deps-0-limegreen.svg)](https://github.com/franciscop/evil-sort/blob/master/package.json)
 
 > Note: this is a joke/meme package
 
